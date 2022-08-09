@@ -17,16 +17,3 @@ In the file named STRINGv11_network_process and string physical network link pre
 In the STRINGv11_network_process, we present the network in different confidence score, and calculate power-law attribution for the PPI network.
 
 In the string physica networ link preprocess, we transfer PPI's node from ENSEMBL protei ID to gene symbol to ensure following experiment conduct well.
-
-## disease gene set
-
-
-## drug gene set
-
-
-
-
-
-
-
-
