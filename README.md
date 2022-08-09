@@ -6,7 +6,7 @@ Material: STRING PPI networ (https://string-db.org), KEGG, MSigDB, REACTOME, NCI
 
 package: powerlaw, mygene, network,numpy pandas
 
-In the Set2gaussian document, we need to send input which include network and pathway database information (gene set).
+In the Set2gaussian document (https://github.com/wangshenguiuc/set2gaussian), we need to send input which include network and pathway database information (gene set).
 
 In the preprocessing step, we will introduce how we address and do what operat on the materials.
 
