@@ -18,9 +18,9 @@ In the STRINGv11_network_process, we present the network in different confidence
 
 In the string physical networ link preprocess, we transfer PPI's node from ENSEMBL protei ID to gene symbol to ensure following experiment conduct well.
 
-##drug database
+## drug database
 DrugMatrix
 
-##disease gene set
+## disease gene set
 
 
