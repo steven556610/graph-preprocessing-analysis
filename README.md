@@ -20,7 +20,10 @@ In the string physical networ link preprocess, we transfer PPI's node from ENSEM
 
 ## drug database
 DrugMatrix
+7876 drug gene set include dose, time, and compound, experimented on rat.
 
-## disease gene set
-
-
+## COVID-19 gene set
+3 disease gene set
+CRISPR-i related (27)
+CRISPR-a related (49)
+interactome related (75)
